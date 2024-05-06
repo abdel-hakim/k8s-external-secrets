@@ -1,0 +1,1 @@
+vault policy write read_all vault_policy_read_all.hcl
